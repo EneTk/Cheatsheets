@@ -37,6 +37,14 @@ more on branch merging on : https://www.w3schools.com/git/git_branch_merge.asp?r
 
 Git and Github;
 
+git remote add origin https://github.com/EneTk/Cheatsheets.git
+git remote set-url origin "path/to/github/repository"
+git branch -M main
+git push --set-upstream origin main
+
+
+
+
 
 
 Ostalo
