@@ -43,6 +43,17 @@ git branch -M main
 git push --set-upstream origin main
 
 
+Pull/fetch from github
+git fetch origin
+
+check logs
+git log origin/master
+git diff origin/master ( check diffs)
+
+git pull origin ( fetch + merge )
+
+
+
 
 
 
