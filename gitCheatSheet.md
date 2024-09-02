@@ -53,12 +53,12 @@ git diff origin/master ( check diffs)
 git pull origin ( fetch + merge )
 
 
+More on 
+https://www.w3schools.com/git/default.asp?remote=github
 
 
 
 
 
-Ostalo
 
 
-code *.txt (vsc opens file) 
