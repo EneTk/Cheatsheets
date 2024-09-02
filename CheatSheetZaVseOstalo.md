@@ -1,0 +1,1 @@
+code *.txt (vsc opens file)

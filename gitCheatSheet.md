@@ -40,7 +40,7 @@ Git and Github;
 git remote add origin https://github.com/EneTk/Cheatsheets.git
 git remote set-url origin "path/to/github/repository"
 git branch -M main
-git push --set-upstream origin main
+git push --set-upstream origin main ( needs to be used only one, later on "git push origin" is enough)
 
 
 Pull/fetch from github
